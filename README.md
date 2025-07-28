@@ -12,6 +12,8 @@
 
 https://pan.yyej.com/f/A3v0UK/CMDPE-3.9.3.zip
 
+https://cmdpe.cmdpe666.top/CMDPE-3.9.3.zip
+
 #### 使用要求：
 
 运行内存(RAM) > 2G，U盘>=1G。
