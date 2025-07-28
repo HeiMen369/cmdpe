@@ -20,7 +20,7 @@ https://cmdpe.cmdpe666.top/CMDPE-3.9.3.zip
 
 #### 使用说明：
 
-1.  [cmdpe-程序与功能介绍](https://www.cmdpe.com/post/98.html){:target="_blank"}
+1.  <a href="https://www.cmdpe.com/post/98.html" target="_blank">链接文本</a>
     
 2.  [cmdpe-如何在线下载安装系统](https://www.cmdpe.com/post/77.html)
     
